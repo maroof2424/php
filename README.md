@@ -1,7 +1,3 @@
-Great! Here's a **10-Day PHP Roadmap for Beginners** that gives you a solid foundation in PHP, including basic syntax, forms, database, and a mini project.
-
----
-
 # 🗺️ **10-Day PHP Roadmap for Beginners**
 
 ### 📅 **Duration**: 10 Days (2 hours/day)
